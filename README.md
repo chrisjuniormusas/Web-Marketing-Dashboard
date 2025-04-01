@@ -6,8 +6,7 @@ a dashboard made for the purposes of highlighting technical skills in PowerBI
 ---
 # 🏗️ WEB MARKETING DASHBOARD
 
-
-![Data Architecture]([Screenshot 2025-03-27 202233.png]) 
+![Web Marketing Dashboard](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg) 
 
 
 
